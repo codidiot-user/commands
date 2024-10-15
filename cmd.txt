@@ -6,5 +6,6 @@ ipconfig /displaydns -> gives full dns data
 ipconfig /displaydns |clip ->this func. copies dns data to your clip board
 ipconfig /flushdns ->flush all dns data
 cls ->it will clear the enitre screen
-ppowercfg /energy -> shows efficiency 
-ppowercfg /batteryreport -> give directory link and paste in cmd and it will shows batery info
+powercfg /energy -> shows efficiency 
+powercfg /batteryreport -> give directory link and paste in cmd and it will shows batery info
+systeminfo -> give all info
