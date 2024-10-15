@@ -6,6 +6,14 @@ ipconfig /displaydns -> gives full dns data
 ipconfig /displaydns |clip ->this func. copies dns data to your clip board
 ipconfig /flushdns ->flush all dns data
 cls ->it will clear the enitre screen
+
 powercfg /energy -> shows efficiency 
 powercfg /batteryreport -> give directory link and paste in cmd and it will shows batery info
 systeminfo -> give all info
+open any folder and select folder and type cmd it take to you to cmd 
+explorer . -> take back you to specificed location
+subst s: "paste the location you copied" -> it take you to specificed directory
+prompt{text}$G -> changes prompt from current directory
+title #text -> it change title of the cmd window
+curl qrenco.de/link ->give qrcode for the web
+curl dict.org/d:*text ->it gives meaning of the word you give.
