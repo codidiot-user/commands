@@ -17,3 +17,9 @@ prompt{text}$G -> changes prompt from current directory
 title #text -> it change title of the cmd window
 curl qrenco.de/link ->give qrcode for the web
 curl dict.org/d:*text ->it gives meaning of the word you give.
+
+## NOT RECOMMENDED
+regedit
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SoftwareProtection\TokenStore   
+
+it is used to delete activation key in windows NEVER TRY THIS!!!
